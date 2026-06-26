@@ -174,4 +174,4 @@ min(so)
 🎯 Key Takeaway
 Understanding data types and string operations is essential because strings play a major role in data cleaning, text processing, and real-world data analysis tasks. Learning string methods and built-in functions helps write efficient and readable Python code.
 
-✅ Day 3 completed successfully as part of my #100DaysOfDataAnalyst journey.
+✅ Day 3 completed successfully as part of my #100Days python full stack journey.
